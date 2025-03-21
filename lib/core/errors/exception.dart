@@ -1,0 +1,1 @@
+class user_not_found implements Exception{}
